@@ -101,6 +101,23 @@ tr td:first-child{
 tr td{
     padding-top: 20px;
 }
+
+nav{
+    height: 80px;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem calc((100vw - 1300px) /2);
+
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 0 1.5rem;
+
+
+}
  
  
  
